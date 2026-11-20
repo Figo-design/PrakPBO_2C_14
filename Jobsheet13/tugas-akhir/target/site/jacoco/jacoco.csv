@@ -1,0 +1,14 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+tugas-akhir,id.ac.polinema,Login,1007,0,12,0,207,0,31,0,25,0
+tugas-akhir,id.ac.polinema,Login.HouseIcon,261,0,0,0,26,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.IconLabel,13,0,0,0,3,0,1,0,1,0
+tugas-akhir,id.ac.polinema,Login.ClearIcon,49,0,0,0,8,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.new JPanel() {...},37,0,0,0,9,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.RoundedBorder,52,0,0,0,12,0,3,0,3,0
+tugas-akhir,id.ac.polinema,Login.EyeIcon,31,0,0,0,7,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.LineIcon,33,0,0,0,10,0,4,0,4,0
+tugas-akhir,id.ac.polinema,App,4,0,0,0,2,0,1,0,1,0
+tugas-akhir,id.ac.polinema,Login.LockIcon,59,0,0,0,9,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.MailIcon,51,0,0,0,8,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.RoundedPanel,71,0,0,0,14,0,2,0,2,0
+tugas-akhir,id.ac.polinema,Login.InfoIcon,51,0,0,0,9,0,2,0,2,0
